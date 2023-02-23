@@ -1,0 +1,24 @@
+header .logo-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .nav-link {
+    color: gray;
+}
+
+header .nav-link:hover, header .nav-link:focus {
+    color: #76C893;
+}
+
+header .nav-link:active{
+    color:#168AAD;
+}
+
+header .nav {
+    gap: 10px;
+}
+
+.plus-badge {
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(118,200,147,1) 0%, rgba(0,202,255,1) 0%, rgba(82,182,154,1) 30%, rgba(52,160,164,1) 67%, rgba(22,138,173,1) 100%);
+}
